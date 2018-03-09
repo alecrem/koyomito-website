@@ -2,9 +2,9 @@
 layout: default
 img: home.jpg
 category: Services
-title: Un calendario muy japonés
+title: A Very Japanese Calendar
 description: |
 ---
-Cada día verás la fecha separada en varias partes, escrita solamente en japonés. Aunque no sepas nada de japonés, pronto te familiarizarás con los _kanji_ (ideogramas) que salen más a menudo.
+Every day you will find the date broken down into several parts, completely written in Japanese, and you will be able to listen to the pronunciation of the whole thing. Practice repeating it or reading it out loud. Even if you have no previous knowledge of Japanese, you will soon get used to the _kanji_ (ideograms) and the words that come up most often.
 
-Por ejemplo ¿ves el botón en la parte de arriba que tiene el número 30? Ese es el año, expresado en la era japonesa. No se usa siempre, pero es algo fácil de entender y no es difícil acostumbrarse viéndolo todos los días.
+For instance, can you see that button near the top of the screen with the number 30 on it? That's the year, according to the Japanese era. It is not always used, but it's something easy to understand and it's not hard to get used to it by seeing every day.

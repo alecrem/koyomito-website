@@ -2,7 +2,7 @@
 layout: default
 img: fecha.jpg
 category: Services
-title: Información detallada en tu idioma
+title: Detailed Information in Your Language
 description: |
 ---
-Toca cualquiera de las partes de la fecha para abrir una pantalla con todo lo que necesitas saber sobre ese tema, esta vez en castellano. También podrás escuchar la pronunciación de cada palabra, grabada por una hablante japonesa nativa.
+Tap any part of the date to open a screen with all you need to know about the topic, this time in English. You will also be able to listen to the pronunciation of each word, recorded by a native Japanese speaker.

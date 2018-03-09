@@ -2,11 +2,9 @@
 layout: default
 img: rokuyou.jpg
 category: Services
-title: Profundizando en la cultura japonesa
+title: Get a Deeper Knowledge of the Japanese Culture
 description: |
 ---
-Koyomito te enseña a entender y decir la fecha en japonés, pero no se limita al día del mes y de la semana. Algunos calendarios japoneses incluyen el _rokuyō_ para cada día, una clasificación tradicional de los días en seis tipos.
+Koyomito helps you understand dates written in Japanese, as it helps you learning how to pronounce them. But it's not all about the date and day of the week. Some Japanese calendars include the _rokuyō_ for each day, a traditional classification of days in six types.
 
-El _rokuyō_ se sigue usando para elegir cosas como el día en que celebrar una boda, y es una curiosa ventana a la tradición y la sociedad japonesas.
-
-También encontrarás información extra en días festivos y otros días especiales.
+_Rokuyō_ is still used when choosing dates for events such as a wedding, and it is a curious window to Japanese tradition and society.

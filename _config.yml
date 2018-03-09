@@ -7,11 +7,9 @@ title: Koyomito
 email: ale@alecrem.com
 author: Alejandro Cremades
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2017 Alejandro Cremades. Todos los derechos reservados.'
-credits: 'Envía correo electrónico a Alejandro desde su sitio web <a href="https://alecrem.com/">Alecrem</a>.'
+  Koyomito is a calendar app written completely in Japanese, that helps you in your immersion into Japan's culture.
+copyright: 'Copyright &copy; 2017 Alejandro Cremades. All rights reserved.'
+credits: 'Send an email to Alejandro from his website <a href="https://alecrem.com/">Alecrem</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
